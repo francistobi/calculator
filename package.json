@@ -1,0 +1,15 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "helps to perform mathematical operations and also logical operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "francistobi",
+  "license": "ISC",
+  "dependencies": {
+    "cube-root": "^0.1.0",
+    "math-sqrt": "^1.0.1"
+  }
+}

@@ -11,4 +11,4 @@ var addRobot = digitalRobot(3456);
 console.log(val);
 console.log(cube);
 console.log(addRobot);
-console.log(claculator.addition(1, 2, 3, 4));
+console.log(claculator.percentage(5, 100));
